@@ -1,4 +1,7 @@
-https://github-readme-stats.vercel.app/api?username=koyuboy&show_icons=true&theme=radical
+
+<p align="center">
+  <img alt="Koyuboy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=koyuboy&show_icons=true&theme=radical">
+</p>
 
 <!--
 **koyuboy/koyuboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
