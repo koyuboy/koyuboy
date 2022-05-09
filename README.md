@@ -6,8 +6,8 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=koyuboy&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="koyuboy" height="192px"/>
   </p>
 
- ## ⚡ Recent GitHub Activity
-   <a href="https://github.com/koyuboy"><img alt="koyuboy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=koyuboy&custom_title=koyuboy's%20Contribution%20Graph&theme=react-dark" /></a>
+<!--  ## ⚡ Recent GitHub Activity
+   <a href="https://github.com/koyuboy"><img alt="koyuboy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=koyuboy&custom_title=koyuboy's%20Contribution%20Graph&theme=react-dark" /></a> -->
 
 ## :trophy: Git profile Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koyuboy&layout=compact&theme=algolia" alt="koyuboy" /></a> </p>
