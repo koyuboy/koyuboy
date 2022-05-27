@@ -12,6 +12,9 @@
 ## :trophy: Git profile Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koyuboy&layout=compact&theme=algolia" alt="koyuboy" /></a> </p>
 
+## 👨‍💻 Skills
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=csharp,dart,js,java,python,html,css,xml,json,mysql,c&includeNames=true)
+
 -----
 
 
